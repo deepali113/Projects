@@ -1,4 +1,4 @@
-### 🔹 [Sales Dashboard](https://github.com/deepali113/Projects/tree/main/P2_HR_Analytics_Dashboard)
+### 🔹 [Sales Dashboard](https://github.com/deepali113/Projects/tree/main/P3_Sales_Dashboard)
 ## 🎯 **Objective**:
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
