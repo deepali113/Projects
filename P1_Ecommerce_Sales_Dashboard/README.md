@@ -1,4 +1,4 @@
-### 🔹 [P1_Ecommerce_Sales_Dashboard](./P1_Ecommerce_Sales_Dashboard)
+### 🔹 [P1_Ecommerce_Sales_Dashboard](https://github.com/deepali113/Projects/tree/main/P1_Ecommerce_Sales_Dashboard)
 **Objective**: Analyze eCommerce sales performance to identify trends, regional sales insights, and product-wise profitability.
 
 **Highlights**:
