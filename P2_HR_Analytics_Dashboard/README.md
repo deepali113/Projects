@@ -7,7 +7,7 @@ To design a dynamic Power BI dashboard that enables HR stakeholders to analyze a
 - Improved the hiring process.
 - Improved employee experience.
 - Made workforce more productive.
-- Gainedemployeetrust.
+- Gained employee trust.
 
 ## ✅ Skills Used :
 
