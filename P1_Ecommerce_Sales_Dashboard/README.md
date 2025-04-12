@@ -1,5 +1,6 @@
 ### 🔹 [Ecommerce_Sales_Dashboard](https://github.com/deepali113/Projects/tree/main/P1_Ecommerce_Sales_Dashboard)
-**Objective**: Analyzed Ecommerce sales data , Created an interactive dashboard using Power BI.
+## 🎯 **Objective**:
+Analyzed Ecommerce sales data , Created an interactive dashboard using Power BI.
 
 **Highlights**:
 - Created interactive dashboard to track and analyze online sales data.
@@ -7,9 +8,7 @@
 - Created connections, joined new tables, and performed calculations to manipulate data and enable user-driven parameters for visualizations.
 - Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicer, etc)
 
-Here’s a refined list of **skills used** in your **Ecommerce Sales Dashboard project**, based on the objective and highlights you shared. These can be added to your README, resume, or LinkedIn project description:
-
-## ✅ Skills Used
+## ✅ Skills Used :
 
 ### 🛠 **Power BI Skills**
 - **Dashboard Design**: Built visually interactive, executive-level dashboards
@@ -30,8 +29,6 @@ Here’s a refined list of **skills used** in your **Ecommerce Sales Dashboard p
 - Sales and profitability analysis by region, category, and time
 - Customer behavior and segmentation insights
 - Identified underperforming product segments
-
-Would you like me to plug this directly into a README structure for you?
 
 ---
 ## 📫 Connect with Me
