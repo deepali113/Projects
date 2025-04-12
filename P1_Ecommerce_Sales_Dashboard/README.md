@@ -1,4 +1,4 @@
-### 🔹 [Ecommerce_Sales_Dashboard](https://github.com/deepali113/Projects/tree/main/P1_Ecommerce_Sales_Dashboard)
+### 🔹 [Ecommerce Sales Dashboard](https://github.com/deepali113/Projects/tree/main/P1_Ecommerce_Sales_Dashboard)
 ## 🎯 **Objective**:
 Analyzed Ecommerce sales data , Created an interactive dashboard using Power BI.
 
@@ -11,24 +11,24 @@ Analyzed Ecommerce sales data , Created an interactive dashboard using Power BI.
 ## ✅ Skills Used :
 
 ### 🛠 **Power BI Skills**
-- **Dashboard Design**: Built visually interactive, executive-level dashboards
-- **Custom Visualizations**: Bar, Pie, Donut, Clustered Bar, Line, Area, Scatter, Map, Cards, and Slicers
-- **Drill-Down Functionality**: Enabled detailed data exploration via hierarchical filters
-- **Dynamic Parameters**: Applied complex slicers and user-driven inputs
+- **Dashboard Design**: Built visually interactive, executive-level dashboards.
+- **Custom Visualizations**: Bar, Pie, Donut, Clustered Bar, Line, Area, Scatter, Map, Cards, and Slicers.
+- **Drill-Down Functionality**: Enabled detailed data exploration via hierarchical filters.
+- **Dynamic Parameters**: Applied complex slicers and user-driven inputs.
 
 ### 📊 **Data Modeling & Transformation**
-- **Data Connection & Integration**: Joined multiple tables from different sources
-- **Data Cleaning**: Transformed raw sales data for analysis-ready format
-- **Calculated Columns & Measures**: Created DAX expressions for KPIs, trends, and aggregations
+- **Data Connection & Integration**: Joined multiple tables from different sources.
+- **Data Cleaning**: Transformed raw sales data for analysis-ready format.
+- **Calculated Columns & Measures**: Created DAX expressions for KPIs, trends, and aggregations.
 
 ### 🧮 **DAX (Data Analysis Expressions)**
-- Created calculated measures for profit, sales growth, and region/category-level comparisons
-- Used time intelligence functions for trend analysis (e.g., MTD, QTD, YTD)
+- Created calculated measures for profit, sales growth, and region/category-level comparisons.
+- Used time intelligence functions for trend analysis (e.g., MTD, QTD, YTD).
 
 ### 📈 **Business Analysis**
-- Sales and profitability analysis by region, category, and time
-- Customer behavior and segmentation insights
-- Identified underperforming product segments
+- Sales and profitability analysis by region, category, and time.
+- Customer behavior and segmentation insights.
+- Identified underperforming product segments.
 
 ---
 ## 📫 Connect with Me
