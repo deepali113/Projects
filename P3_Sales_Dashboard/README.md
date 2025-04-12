@@ -3,18 +3,11 @@
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
 **Highlights**:
-- **Object:** To contribute to the success of a business by utilising data analysis techniques, specifically
-focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
-- **Dashboard Creation:** Identify the KPIs, design an intuitive and visually appealing dashboard, and add
-interactive visualizations and filtering capabilities to allow users to explore the data at various levels of
-granularity.
-- **Data Analysis:** Provide valuable insights to business entities regarding the eectiveness of their sales
-strategies through visualization and charts.
-- **Sales Forecasting:** leverage historic data and apply time series to generate sales forecasts for the next 15
-days.
-- **Actionable Insights and Recommendations:** The end goal is to share valuable insights and actionable
-information that can drive strategic decision-making and support the supermarket's goals for growth,
-eciency, and customersatisfaction.
+- **Object:** To contribute to the success of a business by utilising data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+- **Dashboard Creation:** Identify the KPIs, design an intuitive and visually appealing dashboard, and add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
+- **Data Analysis:** Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
+- **Sales Forecasting:** leverage historic data and apply time series to generate sales forecasts for the next 15 days.
+- **Actionable Insights and Recommendations:** The end goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, effciency, and customersatisfaction.
 
 ## ✅ Skills Used :
 
