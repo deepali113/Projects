@@ -1,4 +1,4 @@
-### 🔹 [HR Analytics Dashboard](https://github.com/deepali113/Projects/new/main/P2_HR_Analytics_Dashboard)
+### 🔹 [HR Analytics Dashboard](https://github.com/deepali113/Projects/tree/main/P2_HR_Analytics_Dashboard)
 ## 🎯 **Objective**:
 To design a dynamic Power BI dashboard that enables HR stakeholders to analyze attrition patterns, manage hiring pipelines, and measure employee engagement KPIs, leading to data-informed decisions for a healthier workforce.
 
