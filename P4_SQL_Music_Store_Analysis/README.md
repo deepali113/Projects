@@ -1,9 +1,9 @@
 ### 🔹 [SQL_Project_Music_Store_Analysis](https://github.com/deepali113/Projects/tree/main/P4_SQL_Music_Store_Analysis)
 ## 📌 Objectives
-- Analyze sales trends by genre, artist, and country
-- Identify top-spending customers and best-selling genres
-- Explore invoice patterns and customer behavior
-- Assist business decision-making with data-driven insights
+- Analyze sales trends by genre, artist, and country.
+- Identify top-spending customers and best-selling genres.
+- Explore invoice patterns and customer behavior.
+- Assist business decision-making with data-driven insights.
 
 ## 🧩 Dataset
 The database is modeled after a digital music store and includes tables such as:
@@ -24,10 +24,10 @@ The database is modeled after a digital music store and includes tables such as:
 - `String concatenation` using `||`
 
 ## 🔍 Sample Insights
-- Top 10 artists by revenue
-- Most popular genres per country
-- Customers with the highest lifetime value
-- Spending trends by country and artist
+- Top 10 artists by revenue.
+- Most popular genres per country.
+- Customers with the highest lifetime value.
+- Spending trends by country and artist.
 
 ## Database and Tools
 * Postgre SQL
