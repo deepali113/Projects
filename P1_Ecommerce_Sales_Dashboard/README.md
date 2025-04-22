@@ -29,8 +29,13 @@ Analyzed Ecommerce sales data , Created an interactive dashboard using Power BI.
 - Sales and profitability analysis by region, category, and time.
 - Customer behavior and segmentation insights.
 - Identified underperforming product segments.
+- 
+📸 **Ecommerce Sales Dashboard**
+
+![Ecommerce Sales Dashboard](https://github.com/deepali113/Projects/blob/main/P1_Ecommerce_Sales_Dashboard/Ecommerce%20Sales%20Dashboard.png)
 
 ---
+
 ## 📫 Connect with Me
 
 - **LinkedIn**: [Deepali Pandey](https://www.linkedin.com/in/deepali-pandey-7b308b125)
