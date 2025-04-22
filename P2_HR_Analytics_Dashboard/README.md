@@ -30,7 +30,13 @@ To design a dynamic Power BI dashboard that enables HR stakeholders to analyze a
 ### 🧠 **Business Impact Focus**
 - Linked HR metrics to business outcomes like productivity and cost of attrition.
 - Provided data-backed recommendations to leadership.
+
+📸 **HR Analytics Dashboard**
+
+![HR Analytics Dashboard](https://github.com/deepali113/Projects/blob/main/P2_HR_Analytics_Dashboard/HR%20Analytics%20Dashboard.png)
+
 ---
+
 ## 📫 Connect with Me
 
 - **LinkedIn**: [Deepali Pandey](https://www.linkedin.com/in/deepali-pandey-7b308b125)
