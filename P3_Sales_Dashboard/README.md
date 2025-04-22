@@ -1,4 +1,4 @@
-### 🔹 [Sales Dashboard](https://github.com/deepali113/Projects/tree/main/P3_Sales_Dashboard)
+### 🔹 [Supertore Sales Dashboard](https://github.com/deepali113/Projects/tree/main/P3_Sales_Dashboard)
 ## 🎯 **Objective**:
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
@@ -33,6 +33,11 @@ Incorporated data analysis techniques, specializing in time series analysis, to 
 ### 🎯 **Strategic Insights & Business Alignment**
 - Provided data-driven recommendations to support the supermarket's growth goals.
 - Linked insights to business objectives: customer satisfaction, efficiency, and revenue growth.
+
+📸 **Supertore Sales Dashboard**
+
+![Supertore Sales Dashboard1](https://github.com/deepali113/Projects/blob/main/P3_Sales_Dashboard/Sales_Dashboard1.png)
+![Supertore Sales Dashboard2](https://github.com/deepali113/Projects/blob/main/P3_Sales_Dashboard/Sales_Dashboard2.png)
 
 ---
 ## 📫 Connect with Me
